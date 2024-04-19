@@ -4,7 +4,7 @@
 This Python project is designed to scrape Pokémon episode links from a webpage and categorize them by series. Using the BeautifulSoup library, the script parses HTML content to extract episode titles and links, organizing them into separate lists for Pokémon Journeys, Pokémon the Series: XY, Pokémon Master Journeys, and Pokémon Ultimate Journeys.
 
 ## Features
-- Scrapes episode links from a webpage
+- Scrapes episode links from a webpage (you can also scrap the data from a website through link too! but don't forget to use request module then)
 - Categorizes episodes by series
 - Extracts accurate episode titles and links
 - Provides separate lists for each Pokémon series
