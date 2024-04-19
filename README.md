@@ -10,7 +10,7 @@ This Python project is designed to scrape Pokémon episode links from a webpage 
 - Provides separate lists for each Pokémon series
 
 ## Note
-- Here I scrap the data from youtube channel of Pokemon Asia..so either you can use request module to scrap the data or copy the whole HTML code in the separate file as I do..
+- Here I scrap the data from youtube channel of Pokemon Asia..so either you can use request module to scrap the data or copy the whole HTML code in the separate file as I do..here I am not providing the HTML file due to security concerns..
 
 ## Dependencies
 - Python 3.x
