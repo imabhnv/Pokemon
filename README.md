@@ -9,6 +9,9 @@ This Python project is designed to scrape Pokémon episode links from a webpage 
 - Extracts accurate episode titles and links
 - Provides separate lists for each Pokémon series
 
+## Note
+- Here I scrap the data from youtube channel of Pokemon Asia..so either you can use request module to scrap the data or copy the whole HTML code in the separate file as I do..
+
 ## Dependencies
 - Python 3.x
 - BeautifulSoup (bs4)
@@ -17,7 +20,6 @@ This Python project is designed to scrape Pokémon episode links from a webpage 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed.
 3. Install BeautifulSoup library if not already installed:
-
 4. Run the `pokemon_episode_scraper.py` script.
 5. View the output lists for each Pokémon series.
 
