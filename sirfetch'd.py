@@ -1,3 +1,4 @@
+# Don't got confuse by the name of the file..Its just a name of a pokemon 😁
 from bs4 import BeautifulSoup
 
 with open('D:\PROGRAMMING LANGUAGES\PYTHON\PYTHON bs4\Pokemon\index2.html', 'r', encoding='utf-8') as file:
